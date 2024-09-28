@@ -1,0 +1,2 @@
+O arquivo ter nome diferente ou ser renomeado, segue com o mesmo hash
+Só mudando o conteúdo que vai alterar o hash
